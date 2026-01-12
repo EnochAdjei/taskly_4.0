@@ -10,6 +10,6 @@ A simple and intuitive to-do application for creating, managing, and tracking da
 - Delete tasks
 - Clean and minimal user interface
 
-## uilt With
+## Built With
 
 - Flutter & Dart
